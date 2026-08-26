@@ -1,9 +1,9 @@
 # LoginSystemAPI
 
 ![Badge](https://img.shields.io/badge/Status-Concluído-green)
-![GitHub issues](https://img.shields.io/github/issues/SeuUsuario/LoginSystemAPI)
-![GitHub stars](https://img.shields.io/github/stars/SeuUsuario/LoginSystemAPI)
-![GitHub forks](https://img.shields.io/github/forks/SeuUsuario/LoginSystemAPI)
+![GitHub issues](https://img.shields.io/github/issues/MatheusAV/LoginSystem)
+![GitHub stars](https://img.shields.io/github/stars/MatheusAV/LoginSystem)
+![GitHub forks](https://img.shields.io/github/forks/MatheusAV/LoginSystem)
 
 ## 📝 Descrição
 
